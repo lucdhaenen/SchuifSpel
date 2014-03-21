@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchuifSpel", "SchuifSpel\SchuifSpel.csproj", "{C0FE7241-3E4F-4EDD-A410-79F713F74EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0FE7241-3E4F-4EDD-A410-79F713F74EAD}.Debug|x86.ActiveCfg = Debug|x86
+		{C0FE7241-3E4F-4EDD-A410-79F713F74EAD}.Debug|x86.Build.0 = Debug|x86
+		{C0FE7241-3E4F-4EDD-A410-79F713F74EAD}.Release|x86.ActiveCfg = Release|x86
+		{C0FE7241-3E4F-4EDD-A410-79F713F74EAD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
